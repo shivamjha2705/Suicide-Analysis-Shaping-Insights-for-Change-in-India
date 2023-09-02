@@ -1,4 +1,4 @@
-**Project Title**: __**Suicide Analysis in India**__
+**Project Title**: Suicide Analysis in India
 
 **Project Overview**:
 This project analyzes suicide data in India from 2001 to 2012 to gain insights and raise awareness about the issue. It aims to identify key trends, vulnerable groups, and causes of suicide, advocating for data-driven suicide prevention policies.
@@ -23,3 +23,10 @@ This project analyzes suicide data in India from 2001 to 2012 to gain insights a
 
 🔷 Analysis and Visualization
 
+**Some visualized data :-**
+
+![image](https://github.com/shivamjha2705/DSA/assets/69563640/2a5092b1-187e-4490-8439-2195b3e6d5af)
+
+![image](https://github.com/shivamjha2705/DSA/assets/69563640/e6cfb8ba-316d-4f42-a538-d5afa7906e52)
+
+![image](https://github.com/shivamjha2705/DSA/assets/69563640/e76ccb57-4abb-40c2-94d7-610218467743)
