@@ -30,3 +30,5 @@ This project analyzes suicide data in India from 2001 to 2012 to gain insights a
 ![image](https://github.com/shivamjha2705/DSA/assets/69563640/e6cfb8ba-316d-4f42-a538-d5afa7906e52)
 
 ![image](https://github.com/shivamjha2705/DSA/assets/69563640/e76ccb57-4abb-40c2-94d7-610218467743)
+
+**Live Demo : -**  [https://shivamjha2705.github.io/Suicide-Analysis-Shaping-Insights-for-Change-in-India/](url)
