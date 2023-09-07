@@ -1,4 +1,8 @@
-**Project Title**: Suicide Analysis in India
+**Project Title**: Suicide Analysis in India 
+
+PowerBi report link : [Glance over analysis report](https://app.powerbi.com/reportEmbed?reportId=ef18c6a6-3a53-4df4-abe5-b8c4b2dd7cb2&autoAuth=true&ctid=12b4fbf9-dea8-4490-bede-9cc40309ad61)
+
+![image](https://github.com/shivamjha2705/suicide_report/assets/69563640/d6480ba0-bf87-4da3-9fa5-4ed0654c5d2f)
 
 **Project Overview**:
 This project analyzes suicide data in India from 2001 to 2012 to gain insights and raise awareness about the issue. It aims to identify key trends, vulnerable groups, and causes of suicide, advocating for data-driven suicide prevention policies.
